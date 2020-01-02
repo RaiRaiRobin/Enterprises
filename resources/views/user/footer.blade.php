@@ -25,7 +25,7 @@
 <div style="padding-right: 1%; background-color: #333333">
 	<p style="text-align: right; margin-bottom: 0px; padding-bottom: 0.5%; padding-top: 0.2%; color: #FFFFFF">
 	<strong>Contact:</strong><br>
-	<a href="tel:015525948" style="color: #FFFFFF">Tel: 01-5525948</a><br>
+	<a href="tel:015525948" style="color: #FFFFFF">Tel: +1-5525948</a><br>
 	Email: greennepalmulticare@gmail.com<br>
 	<a href="https://goo.gl/maps/DhgiNgqCW225jc3h8" style="color: #FFFFFF">Address: Lalitpur, Satdobato</a>
 	</p>
